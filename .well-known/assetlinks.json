@@ -10,7 +10,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "tipico.sports",
+    "package_name": "sportbet.android",
     "sha256_cert_fingerprints":
     ["CE:7B:59:89:A5:B4:94:22:55:E8:55:D8:AF:4B:EC:08:C0:89:7D:8E:7F:8B:BB:CC:CB:EC:06:A2:B4:E0:B6:92"]
   }
