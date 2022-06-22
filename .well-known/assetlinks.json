@@ -1,33 +1,38 @@
-[{
-"relation": [
-"delegate_permission/common.handle_all_urls"
-],
-"target": {
-"namespace": "android_app",
-"package_name": "com.kotas.applink",
-"sha256_cert_fingerprints": [
-"5F:CC:37:67:0B:A4:90:76:B9:C1:C8:5C:D7:97:ED:09:19:BE:8B:36:E0:1A:5F:28:83:4E:1E:FC:5D:A9:72:C4"
-]
-}
-},
-{
-"relation": [
-"delegate_permission/common.handle_all_urls"
-],
-"target": {
-"namespace": "android_app",
-"package_name": "sportbet.android",
-"sha256_cert_fingerprints": [
-"4D:53:A9:5D:0A:9D:90:4A:7E:98:27:F9:D1:86:3B:8C:39:3A:20:64:7E:4C:92:62:AC:83:82:1C:45:F3:AC:96"
-]
-}
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "tipico.sports",
-    "sha256_cert_fingerprints":
-    ["26:D5:B9:63:7B:A2:A1:3F:74:C4:E1:05:21:CB:78:CD:EB:B8:4B:91:47:63:42:83:B6:16:59:9A:BB:53:5E:5C"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kotas.applink",
+      "sha256_cert_fingerprints": [
+        "5F:CC:37:67:0B:A4:90:76:B9:C1:C8:5C:D7:97:ED:09:19:BE:8B:36:E0:1A:5F:28:83:4E:1E:FC:5D:A9:72:C4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sportbet.android",
+      "sha256_cert_fingerprints": [
+        "4D:53:A9:5D:0A:9D:90:4A:7E:98:27:F9:D1:86:3B:8C:39:3A:20:64:7E:4C:92:62:AC:83:82:1C:45:F3:AC:96"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tipico.sports",
+      "sha256_cert_fingerprints": [
+        "26:D5:B9:63:7B:A2:A1:3F:74:C4:E1:05:21:CB:78:CD:EB:B8:4B:91:47:63:42:83:B6:16:59:9A:BB:53:5E:5C"
+      ]
+    }
   }
-}]
+]
